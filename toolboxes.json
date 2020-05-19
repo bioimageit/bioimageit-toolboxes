@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "id": "Colocalization",
+            "name": "Colocalization",
+            "thumbnail": "colocalization.png",
+            "parent": "root"
+        },
+        {
+            "id": "Intensity colocalization",
+            "name": "Intensity colocalization",
+            "thumbnail": "colocalization.png",
+            "parent": "Colocalization"
+        },
+        {
+            "id": "Object colocalization",
+            "name": "Object colocalization",
+            "thumbnail": "colocalization.png",
+            "parent": "Colocalization"
+        },
+        {
+            "id": "Tracking",
+            "name": "Tracking",
+            "thumbnail": "particles_tracking.png",
+            "parent": "root"
+        },
+        {
+            "id": "Objects tracking",
+            "name": "Objects tracking",
+            "thumbnail": "particles_tracking.png",
+            "parent": "Tracking"
+        },
+        {
+            "id": "Particles tracking",
+            "name": "Particles tracking",
+            "thumbnail": "particles_tracking.png",
+            "parent": "Tracking"
+        },
+        {
+            "id": "Spots detection",
+            "name": "Spots detection",
+            "thumbnail": "spots_detection.png",
+            "parent": "root"
+        },
+        {
+            "id": "Image restoration",
+            "name": "Image restoration",
+            "thumbnail": "image_restoration.png",
+            "parent": "root"
+        },
+        {
+            "id": "Denoising",
+            "name": "Denoising",
+            "thumbnail": "image_restauration.png",
+            "parent": "Image restoration"
+        },
+        {
+            "id": "Deconvolution",
+            "name": "Deconvolution",
+            "thumbnail": "image_restauration.png",
+            "parent": "Image restoration"
+        },
+        {
+            "id": "Segmentation",
+            "name": "Segmentation",
+            "thumbnail": "segmentation.png",
+            "parent": "root"
+        },
+        {
+            "id": "Statistics",
+            "name": "Statistics",
+            "thumbnail": "statistics.png",
+            "parent": "root"
+        }
+    ]
+}
