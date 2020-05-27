@@ -45,7 +45,7 @@
         {
             "id": "Image restoration",
             "name": "Image restoration",
-            "thumbnail": "thumbs/image_restoration.png",
+            "thumbnail": "thumbs/image_restauration.png",
             "parent": "root"
         },
         {
