@@ -11,6 +11,10 @@
         {
             "name": "htesting",
             "url": "https://gitlab.inria.fr/bioimage-it/htesting-tools/-/archive/master/htesting-tools-master.zip?path=tools"
+        },
+        {
+            "name": "simg",
+            "url": "https://gitlab.inria.fr/serpico/simg/-/archive/master/simg-master.zip?path=tools"
         }
     ]
 }
