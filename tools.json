@@ -10,7 +10,7 @@
         },
         {
             "name": "htesting",
-            "url": "https://gitlab.inria.fr/bioimage-it/htesting-tool/-/archive/master/htesting-tool-master.zip?path=tools"
+            "url": "https://gitlab.inria.fr/bioimage-it/htesting-tools/-/archive/master/htesting-tools-master.zip?path=tools"
         }
     ]
 }
