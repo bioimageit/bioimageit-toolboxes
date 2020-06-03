@@ -2,7 +2,7 @@
     "tools": [ 
         {
             "name": "sampletool",
-            "url": "https://gitlab.inria.fr/bioimage-it/sampletool/-/archive/f57b24a91132d44f900930b2b07d7e20689dfecd/sampletool-f57b24a91132d44f900930b2b07d7e20689dfecd.zip?path=tools"
+            "url": "https://gitlab.inria.fr/bioimage-it/sampletool/-/archive/master/sampletool-master.zip?path=tools"
         },
         {
             "name": "fiji",
@@ -10,7 +10,7 @@
         },
         {
             "name": "htesting",
-            "url": "https://gitlab.inria.fr/bioimage-it/sampletool/-/archive/master/sampletool-master.zip?path=tools"
+            "url": "https://gitlab.inria.fr/bioimage-it/htesting-tool/-/archive/master/htesting-tool-master.zip?path=tools"
         }
     ]
 }
