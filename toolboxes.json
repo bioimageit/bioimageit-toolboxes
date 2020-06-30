@@ -19,6 +19,18 @@
             "parent": "Colocalization"
         },
         {
+            "id": "Filtering",
+            "name": "Filtering",
+            "thumbnail": "thumbs/none.png",
+            "parent": "root"
+        },
+        {
+            "id": "Manipulation",
+            "name": "Manipulation",
+            "thumbnail": "thumbs/none.png",
+            "parent": "root"
+        },
+        {
             "id": "Tracking",
             "name": "Tracking",
             "thumbnail": "thumbs/particles_tracking.png",
