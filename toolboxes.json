@@ -31,6 +31,12 @@
             "parent": "root"
         },
         {
+            "id": "Registration",
+            "name": "Registration",
+            "thumbnail": "thumbs/none.png",
+            "parent": "root"
+        },
+        {
             "id": "Tracking",
             "name": "Tracking",
             "thumbnail": "thumbs/particles_tracking.png",
