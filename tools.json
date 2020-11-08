@@ -15,6 +15,10 @@
         {
             "name": "simg",
             "url": "https://gitlab.inria.fr/serpico/simg/-/archive/master/simg-master.zip?path=tools"
+        },
+        {
+            "name": "ndsafir",
+            "url": "https://gitlab.inria.fr/bioimage-it/bioimageit-tools/-/archive/master/bioimageit-tools-master.zip?path=tools/serpico-ndsafir"
         }
     ]
 }
