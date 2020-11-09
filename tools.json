@@ -18,7 +18,7 @@
         },
         {
             "name": "ndsafir",
-            "url": "https://gitlab.inria.fr/bioimage-it/bioimageit-tools/-/archive/master/bioimageit-tools-master.zip?path=tools/serpico-ndsafir"
+            "url": "https://gitlab.inria.fr/bioimage-it/bioimageit-tools/-/archive/master/bioimageit-tools-master.zip?path=tools"
         }
     ]
 }
