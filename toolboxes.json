@@ -31,12 +31,6 @@
             "parent": "root"
         },
         {
-            "id": "Registration",
-            "name": "Registration",
-            "thumbnail": "thumbs/none.png",
-            "parent": "root"
-        },
-        {
             "id": "Tracking",
             "name": "Tracking",
             "thumbnail": "thumbs/particles_tracking.png",
@@ -88,6 +82,12 @@
             "id": "Statistics",
             "name": "Statistics",
             "thumbnail": "thumbs/statistics.png",
+            "parent": "root"
+        },
+        {
+            "id": "Image reconstruction",
+            "name": "Image reconstruction",
+            "thumbnail": "thumbs/image_restauration.png",
             "parent": "root"
         }
     ]
