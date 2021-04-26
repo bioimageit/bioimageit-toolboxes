@@ -1,24 +1,8 @@
 {
     "tools": [ 
         {
-            "name": "sampletool",
-            "url": "https://gitlab.inria.fr/bioimage-it/sampletool/-/archive/master/sampletool-master.zip?path=tools"
-        },
-        {
-            "name": "fiji",
-            "url": "https://gitlab.inria.fr/bioimage-it/fiji-tools/-/archive/master/fiji-tools-master.zip?path=tools"
-        },
-        {
-            "name": "htesting",
-            "url": "https://gitlab.inria.fr/bioimage-it/htesting-tools/-/archive/master/htesting-tools-master.zip?path=tools"
-        },
-        {
-            "name": "simg",
-            "url": "https://gitlab.inria.fr/serpico/simg/-/archive/master/simg-master.zip?path=tools"
-        },
-        {
-            "name": "ndsafir",
-            "url": "https://gitlab.inria.fr/bioimage-it/bioimageit-tools/-/archive/master/bioimageit-tools-master.zip?path=tools"
+            "name": "bioimageit-tools",
+            "url": "https://github.com/bioimageit/bioimageit-tools/archive/refs/heads/main.zip"
         }
     ]
 }
