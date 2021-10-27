@@ -1,52 +1,28 @@
 {
     "categories": [
         {
-            "id": "Colocalization",
-            "name": "Colocalization",
-            "thumbnail": "thumbs/colocalization.png",
+            "id": "Image & stacks manipulation",
+            "name": "Image & stacks manipulation",
+            "thumbnail": "thumbs/manipulate.png",
             "parent": "root"
         },
         {
-            "id": "Intensity colocalization",
-            "name": "Intensity colocalization",
-            "thumbnail": "thumbs/colocalization.png",
-            "parent": "Colocalization"
-        },
-        {
-            "id": "Object colocalization",
-            "name": "Object colocalization",
-            "thumbnail": "thumbs/colocalization.png",
-            "parent": "Colocalization"
-        },
-        {
-            "id": "Filtering",
-            "name": "Filtering",
-            "thumbnail": "thumbs/none.png",
+            "id": "Denoising",
+            "name": "Denoising",
+            "thumbnail": "thumbs/denoising.png",
             "parent": "root"
         },
         {
-            "id": "Manipulation",
-            "name": "Manipulation",
-            "thumbnail": "thumbs/none.png",
+            "id": "Deconvolution",
+            "name": "Deconvolution",
+            "thumbnail": "thumbs/deconvolution.png",
             "parent": "root"
         },
         {
-            "id": "Tracking",
-            "name": "Tracking",
-            "thumbnail": "thumbs/particles_tracking.png",
+            "id": "Image reconstruction",
+            "name": "Image reconstruction",
+            "thumbnail": "thumbs/image_reconstruction.png",
             "parent": "root"
-        },
-        {
-            "id": "Objects tracking",
-            "name": "Objects tracking",
-            "thumbnail": "thumbs/particles_tracking.png",
-            "parent": "Tracking"
-        },
-        {
-            "id": "Particles tracking",
-            "name": "Particles tracking",
-            "thumbnail": "thumbs/particles_tracking.png",
-            "parent": "Tracking"
         },
         {
             "id": "Spots detection",
@@ -55,39 +31,9 @@
             "parent": "root"
         },
         {
-            "id": "Image restoration",
-            "name": "Image restoration",
-            "thumbnail": "thumbs/image_restauration.png",
-            "parent": "root"
-        },
-        {
-            "id": "Denoising",
-            "name": "Denoising",
-            "thumbnail": "thumbs/image_restauration.png",
-            "parent": "Image restoration"
-        },
-        {
-            "id": "Deconvolution",
-            "name": "Deconvolution",
-            "thumbnail": "thumbs/image_restauration.png",
-            "parent": "Image restoration"
-        },
-        {
-            "id": "Segmentation",
-            "name": "Segmentation",
-            "thumbnail": "thumbs/segmentation.png",
-            "parent": "root"
-        },
-        {
-            "id": "Statistics",
-            "name": "Statistics",
-            "thumbnail": "thumbs/statistics.png",
-            "parent": "root"
-        },
-        {
-            "id": "Image reconstruction",
-            "name": "Image reconstruction",
-            "thumbnail": "thumbs/image_restauration.png",
+            "id": "Tracking",
+            "name": "Tracking",
+            "thumbnail": "thumbs/tracking.png",
             "parent": "root"
         }
     ]
