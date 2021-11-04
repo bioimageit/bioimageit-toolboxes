@@ -11,7 +11,7 @@
             "id": "Denoising",
             "name": "Denoising",
             "thumbnail": "thumbs/denoising.png",
-            "doc": "https://www.google.com",
+            "doc": "https://sylvainprigent.github.io/tutorial-denoising/denoising.html",
             "parent": "root"
         },
         {
