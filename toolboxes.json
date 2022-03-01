@@ -41,6 +41,13 @@
             "thumbnail": "thumbs/tracking.png",
             "doc": "",
             "parent": "root"
+        },
+        {
+            "id": "Segmentation",
+            "name": "Segmentation",
+            "thumbnail": "thumbs/segmentation.png",
+            "doc": "",
+            "parent": "root"
         }
     ]
 }
