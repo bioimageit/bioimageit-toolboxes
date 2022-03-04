@@ -52,7 +52,7 @@
         {
             "id": "Measure",
             "name": "Measure",
-            "thumbnail": "thumbs/segmentation.png",
+            "thumbnail": "thumbs/measure.png",
             "doc": "",
             "parent": "root"
         }
