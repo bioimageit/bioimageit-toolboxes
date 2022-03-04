@@ -48,6 +48,13 @@
             "thumbnail": "thumbs/segmentation.png",
             "doc": "",
             "parent": "root"
+        },
+        {
+            "id": "Measure",
+            "name": "Measure",
+            "thumbnail": "thumbs/segmentation.png",
+            "doc": "",
+            "parent": "root"
         }
     ]
 }
