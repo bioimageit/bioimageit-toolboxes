@@ -55,6 +55,13 @@
             "thumbnail": "thumbs/measure.png",
             "doc": "",
             "parent": "root"
+        },
+        {
+            "id": "Registration",
+            "name": "Registration",
+            "thumbnail": "thumbs/registration.png",
+            "doc": "",
+            "parent": "root"
         }
     ]
 }
