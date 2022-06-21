@@ -35,6 +35,12 @@
             "extension":"txt",
             "reader":"movietxt",
             "viewer":"napari"
+        },
+        {
+            "name":"bioformat",
+            "extension":"any",
+            "reader":"none",
+            "viewer":"none"
         }
     ]
 }
