@@ -41,6 +41,12 @@
             "extension":"any",
             "reader":"none",
             "viewer":"none"
+        },
+        {
+            "name":"imagezarr",
+            "extension":"zarr",
+            "reader":"none",
+            "viewer":"napari"
         }
     ]
 }
