@@ -43,6 +43,12 @@
             "viewer":"none"
         },
         {
+            "name":"raw",
+            "extension":"",
+            "reader":"none",
+            "viewer":"none"
+        },
+        {
             "name":"imagezarr",
             "extension":"zarr",
             "reader":"none",
