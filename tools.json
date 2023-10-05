@@ -2,7 +2,7 @@
     "tools": [ 
         {
             "name": "bioimageit-tools",
-            "url": "https://github.com/bioimageit/bioimageit-tools/archive/refs/heads/main.zip"
+            "url": "https://github.com/bioimageit/bioimageit-tools/archive/refs/tags/v0.2.0.zip"
         }
     ]
 }
