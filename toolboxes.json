@@ -62,6 +62,13 @@
             "thumbnail": "thumbs/registration.png",
             "doc": "",
             "parent": "root"
-        }
+        },
+        {
+            "id": "Statistics",
+            "name": "Statistics",
+            "thumbnail": "thumbs/statistics.png",
+            "doc": "",
+            "parent": "root"
+        } 
     ]
 }
